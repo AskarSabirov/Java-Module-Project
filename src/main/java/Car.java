@@ -1,10 +1,11 @@
 public class Car {
-    public static String car;
-    public static int speed;
+    public String name;
+    public  int speed;
 
 
-    public Car(String car, int speed) {
-        this.car = car;
+
+    public Car(String name, int speed) {
+        this.name = name;
         this.speed = speed;
     }
 }
