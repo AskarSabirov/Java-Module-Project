@@ -15,6 +15,7 @@ public class Race {
                 leader = car;
             }
           }
+
           lead = leader.name;
         System.out.println("Победилем гонки становится: " + lead);
         }

@@ -27,6 +27,7 @@ public class Main {
                 }
             }
 
+
             Car car = new Car(name, speed);
             race.cars.add(car);
         }
