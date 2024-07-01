@@ -33,6 +33,5 @@ public class Main {
             race.nowLead();
             scanner.close();
 
-
     }
 }

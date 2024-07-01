@@ -3,7 +3,6 @@ public class Car {
     public  int speed;
 
 
-
     public Car(String name, int speed) {
         this.name = name;
         this.speed = speed;
